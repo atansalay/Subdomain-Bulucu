@@ -1,0 +1,17 @@
+mail
+ftp
+admin
+local
+localhost
+images
+drive
+blod
+support
+wow
+chat
+docs
+business
+shopping
+photos
+videos
+arms
